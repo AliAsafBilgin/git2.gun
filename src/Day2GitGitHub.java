@@ -16,5 +16,5 @@ Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim 
 kullanırız
 Not: git log -- online
  */
-
+not github ogrendim
 }
