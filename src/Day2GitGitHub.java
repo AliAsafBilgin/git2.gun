@@ -1,3 +1,5 @@
+package git2.gun.src;
+
 public class Day2GitGitHub {
     /*
 1-) git init --> Local repo oluşturmak için yani .git ile klasörümüzün
